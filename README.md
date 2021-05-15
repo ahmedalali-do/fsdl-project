@@ -1,4 +1,4 @@
-# fsdl-project
+# Customer Service Ticket Automation - Full Stack Deep Learning project
 
 This project is part of my enrolment into the Full Stack Deep Learning online course. The project demonstrates automation of customer service tickets by tagging relevant messages to the right teams. The main tools used for this project are:
 
